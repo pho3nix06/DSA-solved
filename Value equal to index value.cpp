@@ -1,3 +1,4 @@
+//Return the element whose value is equal to it's index value (considering 1th indexing)
 // https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1
 
 #include <bits/stdc++.h>
