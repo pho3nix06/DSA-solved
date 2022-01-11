@@ -1,3 +1,7 @@
+//https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1
+
+//https://leetcode.com/problems/move-zeroes/
+
 #include <bits/stdc++.h>
 using namespace std;
 
