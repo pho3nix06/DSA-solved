@@ -1,2 +1,2 @@
 # DSA-solved
-This is my private repo for uploading solved DSA problems
+This is the branch for uploading solved DSA problems
